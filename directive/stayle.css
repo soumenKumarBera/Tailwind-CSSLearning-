@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+@layer base{
+  h1{
+    font-size: 50px;
+  }
+  h2{
+    font-size: 80px;
+    color: red;
+  }
+}
